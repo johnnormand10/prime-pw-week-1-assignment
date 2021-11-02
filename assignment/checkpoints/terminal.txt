@@ -36,4 +36,4 @@ The 'git add .' command tells Git that you want to include updates to a specific
 
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
-The command 'git push' would be used to push your committed changes to your repo on GitHub.
+The command 'git push origin master' would be used to push your committed changes to your repo on GitHub.
