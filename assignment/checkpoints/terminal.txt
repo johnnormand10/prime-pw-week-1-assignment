@@ -13,7 +13,7 @@ The command for going up a folder is 'cd ..'
 
 
 # 4 - What is a quick way to create a new folder?
-A quick way to create a new folder is 'mkdir'
+A quick way to create a new folder is 'touch'.
 
 
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
